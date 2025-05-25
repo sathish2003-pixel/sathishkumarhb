@@ -31,7 +31,7 @@ import { CommonModule } from '@angular/common';
           </div>
         </div>
         <div class="footer-bottom">
-          <p>&copy; {{currentYear}} John Doe. All rights reserved.</p>
+          <p>&copy; {{currentYear}} Sathish Kumar. All rights reserved.</p>
           <p class="credit">Designed & Built with Angular</p>
         </div>
       </div>

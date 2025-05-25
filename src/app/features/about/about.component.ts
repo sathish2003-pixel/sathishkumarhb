@@ -39,7 +39,7 @@ import { CommonModule } from '@angular/common';
               <div class="about-info">
                 <div class="info-item">
                   <h4>Name:</h4>
-                  <p>John Doe</p>
+                  <p>Sathish Kumar</p>
                 </div>
                 <div class="info-item">
                   <h4>Email:</h4>

@@ -12,7 +12,7 @@ import { NgxTypedJsModule } from 'ngx-typed-js';
         <div class="row align-items-center">
           <div class="col-lg-6 home-content" data-aos="fade-right">
             <div class="greeting">Hello, I'm</div>
-            <h1 class="name">John Doe</h1>
+            <h1 class="name">Sathish Kumar</h1>
             <div class="typing-container">
               <ngx-typed-js [strings]="typedStrings" [shuffle]="false" [loop]="true" [backDelay]="1500" [typeSpeed]="70" [backSpeed]="50">
                 <span class="typing">I am a <span class="typing-text"></span></span>
